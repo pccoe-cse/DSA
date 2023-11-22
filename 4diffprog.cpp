@@ -73,9 +73,7 @@ int ch;
 A: 
 cout<<"Enter the choice "<<endl;
  
-Name : SUJIT SACHIN SHAHA 
-Roll no. : SYCOD255 
-PRN :- 122B1B255 
+ 
 cout<<"1.push() \n2.pop() \n3.display()\n"<<endl; 
 cin>>ch; 
 switch (ch) 
